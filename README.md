@@ -15,4 +15,4 @@ Files in the **Omeka S** directory have additional columns to make use of some o
 
 ### Omeka S Datasets
 
-Austen_published: Jane Austen's published works. Special columns are "creator S id" for resource id and "ref url" which points to the Wikipedia entry for the 
+*Austen_published:* Jane Austen's published works. Special columns are "creator S id" for resource id and "ref url" which points to the Wikipedia entry for the work.
