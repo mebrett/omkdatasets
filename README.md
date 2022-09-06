@@ -11,9 +11,12 @@ While some columns will have obvious mappings to Dublin Core and other Omeka voc
 ## Files
 
 The following headings correspond to the two directories in this repo. Each paragraph explains the contents and structure of a specific csv file.
+
 ### General Datasets
 
 *HolmesCanon*: all of the Sherlock Holmes short stories and novels written by Sir Arthur Conan Doyle. Descriptions and media sourced from Wikipedia. The `File` column has urls to Wikimedia images.
+
+*Cheeses*: a silly csv of cheeses. The `type` and `country of origin` columns could map to a controlled vocabulary. The `milk` column uses `;` for a multi-value separator. The `FileUrl` column has urls to Wikimedia images.
 
 ### Omeka S Datasets
 
